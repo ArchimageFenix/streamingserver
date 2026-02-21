@@ -1,4 +1,4 @@
-# streamingserver
+# Streamingserver
 Descripcion de servidor casero para hogar compartido de forma segura usando Tailscale/WireGuard
 
 Este proyecto explica cómo montar un servidor multimedia en casa usando Jellyfin y compartirlo de forma segura con amigos y familiares a través de Tailscale, sin necesidad de abrir puertos en el router.
